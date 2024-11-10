@@ -1,0 +1,8 @@
+fastapi~=0.115.4
+numpy~=2.0.2
+keras~=3.6.0
+tensorflow~=2.18.0
+python-multipart~=0.0.17
+pillow~=11.0.0
+Keras-Preprocessing~=1.1.2
+uvicorn~=0.32.0
